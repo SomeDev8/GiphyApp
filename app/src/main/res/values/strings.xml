@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GiphyApp</string>
+    <string name="search_hint">Search for your favorite gifs here!!</string>
+    <string name="search_button_label">Search</string>
+</resources>
